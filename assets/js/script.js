@@ -27,6 +27,6 @@ window.addEventListener("load", function() {
 
         // Debugging: Log a message to the console
         console.log("Page loaded successfully!");
-    }, 3000); // 4000 milliseconds (4 seconds)
+    }, 2000); // 2 detik
 });
 
