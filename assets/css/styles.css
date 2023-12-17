@@ -32,3 +32,6 @@ body {
     opacity: 1;
 }
 
+.margin {
+    margin-top: 5rem !important;
+}
